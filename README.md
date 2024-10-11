@@ -11,4 +11,4 @@ In this project we work with a dataset available on [Kaggle](https://www.kaggle.
 - Length of Membership: How many years the customer has been a member.
 Note that all the personal information is not real.
 
-Credits to [Alejandro AO](https://www.github.com/alejandro-ao) for this project
+Credits to [Alejandro AO](https://www.github.com/alejandro-ao) for this project.
